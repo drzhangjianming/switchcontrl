@@ -1,0 +1,2 @@
+# switchcontrl
+switch remote con
